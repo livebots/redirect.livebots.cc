@@ -1,0 +1,19 @@
+{
+  "name": "redirect.livebots.cc",
+  "version": "0.0.0",
+  "description": "redirect.livebots.cc ====================",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/livebots/redirect.livebots.cc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/livebots/redirect.livebots.cc/issues"
+  }
+}
